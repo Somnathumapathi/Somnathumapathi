@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Somnath
 
-[My Portfolio](https://somnath-portfolio-pied.vercel.app/)
+[My Portfolio](https://somnath-umapathi.vercel.app/)
 
 A CS student intrested in app and web development. I'm also learning web 3.0 recently.
 
