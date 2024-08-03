@@ -2,7 +2,7 @@
 
 [My Portfolio](https://somnath-umapathi.vercel.app/)
 
-A CS student intrested in app and web development. I'm also learning web 3.0 recently.
+A software developer intrested in app and web development. I'm also learning web 3.0 recently.
 
 Technologies I'm using:
 
