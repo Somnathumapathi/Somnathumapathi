@@ -4,6 +4,9 @@
 
 A software developer intrested in app and web development. I'm also learning web 3.0 recently.
 
+### Contact me:
+somnathumapathi7@gmail.com
+
 ### Technologies I'm using and learning:
 
 ### Programming Languages
