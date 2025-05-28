@@ -32,7 +32,7 @@ somnathumapathi7@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somnathumapathi&show_icons=true&theme=radical&rank_icon=github)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishichirchi&theme=aura_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Somnathumapathi&theme=aura_dark">
 
 <!--
 **Somnathumapathi/Somnathumapathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
