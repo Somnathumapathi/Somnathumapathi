@@ -35,6 +35,15 @@ somnathumapathi7@gmail.com
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Somnathumapathi&theme=aura_dark">
 
 <!--START_SECTION:waka-->
+
+```txt
+Go           12 hrs 2 mins         ████████▓░░░░░░░░░░░░░░░░   35.26 %
+TypeScript   7 hrs 27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
+Other        6 hrs 45 mins         █████░░░░░░░░░░░░░░░░░░░░   19.79 %
+YAML         3 hrs 3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Python       1 hr 41 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
