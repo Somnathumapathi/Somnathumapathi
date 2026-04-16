@@ -34,6 +34,9 @@ somnathumapathi7@gmail.com
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Somnathumapathi&theme=aura_dark">
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **Somnathumapathi/Somnathumapathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
