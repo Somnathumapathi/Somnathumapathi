@@ -37,11 +37,11 @@ somnathumapathi7@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   20 hrs 26 mins        ██████████▒░░░░░░░░░░░░░░   41.74 %
-Other        19 hrs 19 mins        ██████████░░░░░░░░░░░░░░░   39.45 %
-Go           3 hrs 39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-YAML         2 hrs 27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Bash         1 hr 20 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+TypeScript   22 hrs 44 mins        ███████████▒░░░░░░░░░░░░░   45.40 %
+Other        18 hrs 38 mins        █████████▒░░░░░░░░░░░░░░░   37.21 %
+Go           3 hrs 42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+YAML         2 hrs 31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Bash         58 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
