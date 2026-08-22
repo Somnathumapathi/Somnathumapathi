@@ -37,11 +37,11 @@ somnathumapathi7@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Go           13 hrs 31 mins        ███████████▓░░░░░░░░░░░░░   46.51 %
-Other        4 hrs 43 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
-Markdown     3 hrs 54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Python       2 hrs 23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-YAML         1 hr 20 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Go           13 hrs 6 mins         ███████████▓░░░░░░░░░░░░░   46.06 %
+Other        5 hrs 13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
+Markdown     3 hrs 14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+Python       2 hrs 9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Bash         1 hr 18 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 ```
 
 <!--END_SECTION:waka-->
