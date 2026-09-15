@@ -30,10 +30,6 @@ somnathumapathi7@gmail.com
 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somnathumapathi&show_icons=true&theme=radical&rank_icon=github)
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Somnathumapathi&theme=aura_dark">
-
 <!--START_SECTION:waka-->
 
 ```txt
